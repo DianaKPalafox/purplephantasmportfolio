@@ -29,7 +29,7 @@ h1{
     display: block;
     position: relative;
     background-image: linear-gradient(45deg, #8886B3 0%, #76477A 100%);
-    -webkit-background-clip: text;  
+    -webkit-background-clip: text; 
     -webkit-text-fill-color: transparent !important;
     font-family: Crayon_Print;
     
@@ -40,6 +40,10 @@ h1{
     padding: 0;
     box-sizing: border-box;
     font-family: BOLD_FONT_CAPITALS_ONLY;
+  }
+  .content {
+    background: white;
+    border-radius: 3px;
   }
   
   .container{
