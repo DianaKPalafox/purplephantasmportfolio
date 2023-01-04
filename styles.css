@@ -1,10 +1,10 @@
 @font-face {
     font-family: BOLD_FONT_CAPITALS_ONLY;
-    src: url(../../purplephantasmportfolio/BOLD_FONT_CAPITALS_ONLY.ttf);
+    src: url("../../purplephantasmportfolio/font/BOLD_FONT_CAPITALS_ONLY.ttf");
 }
 @font-face {
     font-family: Crayon_Print;
-    src: url(../font/Crayon_Print.ttf);
+    src: url("../../purplephantasmportfolio//font/Crayon_Print.ttf");
 }
 
 
