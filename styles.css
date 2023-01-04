@@ -1,6 +1,5 @@
 body {
+    background-color: blueviolet;
     background-image: url(".../image/Background_Purple_Phantasm.png");
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-position: right top;
+            
    }
