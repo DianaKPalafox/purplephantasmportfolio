@@ -1,16 +1,16 @@
 @font-face {
     font-family: BOLD_FONT_CAPITALS_ONLY;
-    src: url("../../purplephantasmportfolio/font/BOLD_FONT_CAPITALS_ONLY.ttf");
+    src: url("../purplephantasmportfolio/font/BOLD_FONT_CAPITALS_ONLY.ttf");
 }
 @font-face {
     font-family: Crayon_Print;
-    src: url("../../purplephantasmportfolio//font/Crayon_Print.ttf");
+    src: url("../purplephantasmportfolio//font/Crayon_Print.ttf");
 }
 
 
 body{
     text-align: center;
-    background-image: url("../../purplephantasmportfolio/image/Background_Purple_Phantasm.png");
+    background-image: url("../image/Background_Purple_Phantasm.png");
     background-size: cover;     
 }
 
