@@ -42,8 +42,9 @@ h1{
   font-family: BOLD_FONT_CAPITALS_ONLY;
 }
 .content {
+  opacity: .6;
   background: white;
-  border-radius: 3px;
+  border-radius: 45px;
 }
 
 .container{
@@ -56,13 +57,13 @@ h1{
 }
 
 .container .heading{
-  width: 50%;
+  width: 40%;
   padding-bottom: 50px;
 }
 .container .heading h3{
   font-size: 3em;
   font-weight: bolder;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
   border-bottom: 3px solid #222;
 }
 
@@ -106,7 +107,7 @@ h1{
 
 .bottom{
   width: 50%;
-  padding-top: 10px;
+  padding-top: 50px;
   border-top: 3px solid #222;
 }
 
